@@ -1,0 +1,11 @@
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/CSVRecord.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/package-info.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/CSVPrinter.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/Token.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/CSVFormat.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/QuoteMode.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/Lexer.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/Constants.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/Assertions.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java
+/var/www/html/commons-csv-trunk/src/main/java/org/apache/commons/csv/CSVParser.java
